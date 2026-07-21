@@ -94,4 +94,9 @@ Once the server is running, open the Swagger UI at:
 
 http://127.0.0.1:8000/docs
 
-![Swagger UI](swagger_screenshot.png)
+
+## Developed By
+
+Abdul Hadi
+
+![Swagger UI](swagger_books_ui.jpeg)
